@@ -1,0 +1,1 @@
+web: java -jar target/jwt-oauth2-0.0.1-SNAPSHOT.jar
