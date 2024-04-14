@@ -75,16 +75,6 @@
 					</excludes>
 				</configuration>
 			</plugin>
-			<plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-compiler-plugin</artifactId>
-    <version>3.11.0</version>
-    <configuration>
-        <release>17</release> <!-- Set release version to 17 -->
-    </configuration>
-</plugin>
-
-
 		</plugins>
 	</build>
 
