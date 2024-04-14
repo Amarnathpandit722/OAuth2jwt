@@ -15,7 +15,7 @@
 # CMD ["java", "-jar", "jwtoauth2.jar"]
 
 # Use a specific version of Java 17 Alpine
-FROM openjdk:17.0.1-alpine
+FROM openjdk:17
 
 # Set the working directory in the container
 WORKDIR /jwtoauth2
